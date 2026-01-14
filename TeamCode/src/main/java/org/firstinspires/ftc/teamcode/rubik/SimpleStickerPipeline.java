@@ -26,7 +26,7 @@ public class SimpleStickerPipeline extends OpenCvPipeline {
             points[5] = new Point(320, 270);
 
             points[6] = new Point(200, 260);
-            points[7] = new Point(240, 280);
+            points[7] = new Point(240, 280);/
             points[8] = new Point(280, 300);
         }
         return input;
